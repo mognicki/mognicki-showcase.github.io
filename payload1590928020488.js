@@ -1,0 +1,1 @@
+window.__NUXT__=function(e){return{layout:"default",data:[{}],fetch:[],error:e,state:e,serverRendered:!1,routePath:"/"}}(null)

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{338:function(n,o,t){"use strict";t.r(o);var c={asyncData:function(n){(0,n.redirect)(301,"/README__md")}},e=t(6),component=Object(e.a)(c,void 0,void 0,!1,null,null,null);o.default=component.exports}}]);
